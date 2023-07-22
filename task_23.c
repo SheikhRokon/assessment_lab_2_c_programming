@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 int main() {
-    float fahrenheit, celsius;
+    float fahrenheiT, celsius;
     
-    // Input temperature in Fahrenheit
-    printf("Enter the temperature in degrees Fahrenheit: ");
-    scanf("%f", &fahrenheit);
+    // Input temperature in fahrenheiT
+    printf("Enter the temperature in degrees fahrenheiT: ");
+    scanf("%f", &fahrenheiT);
     
-    // Convert Fahrenheit to Celsius
-    celsius = (fahrenheit - 32) * 0.56;
+    // Convert fahrenheiT to Celsius
+    celsius = (fahrenheiT - 32) * 0.56;
     
     // Determine the season based on the Celsius temperature
     if (celsius < 20) {
