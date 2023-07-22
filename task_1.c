@@ -5,7 +5,7 @@ int main() {
     int sum, product, difference;
 
     // Read the two numbers from the user
-    printf("Enter the first number: ");
+    printf("Enter the first Number: ");
     scanf("%d", &num1);
 
     printf("Enter the second number: ");
